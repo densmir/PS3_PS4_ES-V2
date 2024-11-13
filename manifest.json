@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "locale": "en_US",
+  "platform": "4.2.3",
+  "metadata": {
+    "appmode": "quarto-static",
+    "primary_rmd": "PS34_ES.qmd",
+    "primary_html": null,
+    "content_category": null,
+    "has_parameters": false
+  },
+  "quarto": {
+    "version": "1.6.33",
+    "engines": ["markdown"]
+  },
+  "packages": null,
+  "files": {
+    "Ealy_INDEX_BLUP.csv": {
+      "checksum": "8f7381d95e13fa861e1dc78ce756db5a"
+    },
+    "PS34_ES.qmd": {
+      "checksum": "c8b8071694de4fcfcb14a9f825dc4c4e"
+    }
+  },
+  "users": null
+}
